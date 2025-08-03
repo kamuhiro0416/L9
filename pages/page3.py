@@ -1,2 +1,2 @@
 import streamlit as st
-st.write("こんばんは")
+st.write("ダンペイの経緯品が届いたぞー！")

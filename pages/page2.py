@@ -14,7 +14,7 @@ if st.session_state.get('user_name'):
         st.session_state.user_name = ""
         st.session_state.user_grade = ""
         st.session_state.user_hobbies = ""
-        st.success("✅　すべての情報をリセットしました")
+        st.success("✅ すべての情報をリセットしました")
         st.rerun()
 
     else:
